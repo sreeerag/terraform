@@ -4,7 +4,7 @@ resource "aws_instance" "myawsserver" {
 
   tags = {
     Name = "Gagandeep-aws-ec2-instance-v4"
-    Env = "Dev"
+    Env = "Sree-Prod"
   }
 }
 
